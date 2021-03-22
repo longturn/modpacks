@@ -4,6 +4,12 @@
     "message": "Thanks for using the Freeciv21 Modpack Installer!"
   },
   "modpacks": [
-
+    {
+      "name": "SongOfDoom",
+      "version": "1.3",
+      "license": "CC-BY-SA-4.0",
+      "type": "Musicset",
+      "url": "mods/SongOfDoom.json"
+    }
   ]
 }
