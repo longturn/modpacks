@@ -10,6 +10,13 @@
       "license": "CC-BY-SA-4.0",
       "type": "Musicset",
       "url": "mods/SongOfDoom.json"
+    },
+    {
+      "name": "Aviation",
+      "version": "3.1-0.2",
+      "license": " GPL-2.0-only",
+      "type": "Modpack",
+      "url": "https://raw.githubusercontent.com/ec429/fc-aviation/08a9655623093829ef8210a68fea6199292b539f/aviation.json"
     }
   ]
 }
