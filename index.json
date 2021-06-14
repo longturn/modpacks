@@ -13,10 +13,10 @@
     },
     {
       "name": "Aviation",
-      "version": "3.1-0.2",
+      "version": "3.1-0.3",
       "license": " GPL-2.0-only",
       "type": "Modpack",
-      "url": "https://raw.githubusercontent.com/ec429/fc-aviation/980fe1c1875f267da3a4514f8dab4a566a673e26/aviation.json"
+      "url": "https://raw.githubusercontent.com/ec429/fc-aviation/50731c66fc38cfecf40b0868ac7d17b8d32ec374/aviation.json"
     }
   ]
 }
