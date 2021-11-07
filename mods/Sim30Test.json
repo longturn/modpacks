@@ -1,7 +1,7 @@
 {
   "info": {
     "options": "+modpack-1.0",
-    "base_url": "https://github.com/longturn/games/blob/45862e379e0d17c8bfc1c8cd211cc32edcdc5111/SIM30/",
+    "base_url": "https://raw.githubusercontent.com/longturn/games/45862e379e0d17c8bfc1c8cd211cc32edcdc5111/SIM30/",
     "name": "Sim30Test",
     "type": "Ruleset",
     "version": "1.3"
