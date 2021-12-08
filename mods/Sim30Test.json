@@ -1,13 +1,16 @@
 {
   "info": {
     "options": "+modpack-1.0",
-    "base_url": "https://raw.githubusercontent.com/longturn/games/45862e379e0d17c8bfc1c8cd211cc32edcdc5111/SIM30/",
+    "base_url": "https://raw.githubusercontent.com/longturn/games/34580ab95c2bc4f575bf11b955b2eeb446bcae05/SIM30/",
     "name": "Sim30Test",
     "type": "Ruleset",
-    "version": "1.3"
+    "version": "1.4"
   },
   "files": [
-    "SIM30-singleplayer.serv",
+    {
+      "url": "SIM30-singleplayer.serv",
+      "dest": "SIM30.serv"
+    },
     {
       "url": "data/SIM30_fc21/buildings.ruleset",
       "dest": "SIM30_fc21/buildings.ruleset"
