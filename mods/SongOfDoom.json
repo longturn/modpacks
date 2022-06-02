@@ -1,10 +1,10 @@
 {
   "info": {
     "options": "+modpack-1.0",
-    "base_url": "https://github.com/jwrober/SongOfDoom/commit/9d1b57f7cdcf605523d9466645bf69cbb2e765b8",
+    "base_url": "https://raw.githubusercontent.com/jwrober/SongOfDoom/9d1b57f7cdcf605523d9466645bf69cbb2e765b8",
     "name": "SongOfDoom",
     "type": "Musicset",
-    "version": "1.4"
+    "version": "1.4.1"
   },
   "files": [
     "COPYING.SongOfDoom",
