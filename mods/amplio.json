@@ -1,0 +1,47 @@
+{
+  "info": {
+    "options": "+modpack-1.0",
+    "base_url": ".",
+    "name": "Amplio",
+    "type": "Tileset",
+    "version": "1.0"
+  },
+  "files": [
+    {
+      "url": "amplio/amplio.tilespec",
+      "dest": "amplio.tilespec"
+    },
+    "amplio/ancientcities.png",
+    "amplio/ancientcities.spec",
+    "amplio/explosions.png",
+    "amplio/explosions.spec",
+    "amplio/fog.png",
+    "amplio/fog.spec",
+    "amplio/grid.png",
+    "amplio/grid.spec",
+    "amplio/maglev.png",
+    "amplio/maglev.spec",
+    "amplio/medievalcities.png",
+    "amplio/medievalcities.spec",
+    "amplio/moderncities.png",
+    "amplio/moderncities.spec",
+    "amplio/nuke.png",
+    "amplio/nuke.spec",
+    "amplio/ocean.png",
+    "amplio/ocean.spec",
+    "amplio/select-alpha.png",
+    "amplio/select.spec",
+    "amplio/terrain1.png",
+    "amplio/terrain1.spec",
+    "amplio/terrain2.png",
+    "amplio/terrain2.spec",
+    "amplio/tiles.png",
+    "amplio/tiles.spec",
+    "amplio/units.png",
+    "amplio/units.spec",
+    "amplio/upkeep.png",
+    "amplio/upkeep.spec",
+    "amplio/water.png",
+    "amplio/water.spec"
+  ]
+}

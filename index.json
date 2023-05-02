@@ -38,6 +38,13 @@
       "license": "GPL-2.0-or-later",
       "type": "Ruleset",
       "url": "mods/Sim30Test.json"
+    },
+    {
+      "name": "Amplio",
+      "version": "1.0",
+      "license": "GPL-3.0-or-later",
+      "type": "Tileset",
+      "url": "mods/amplio.json"
     }
   ]
 }
