@@ -33,14 +33,14 @@
     "alien/techs.ruleset",
     "alien/terrain.ruleset",
     "alien/units.ruleset",
-    "alient/nation/adventurers.ruleset",
-    "alient/nation/galacticsound.ruleset",
-    "alient/nation/jw.ruleset",
-    "alient/nation/kindergarden.ruleset",
-    "alient/nation/lunatics.ruleset",
-    "alient/nation/madmen.ruleset",
-    "alient/nation/mathclub.ruleset",
-    "alient/nation/secretsociety.ruleset",
-    "alient/nation/teamgladiators.ruleset"
+    "alien/nation/adventurers.ruleset",
+    "alien/nation/galacticsound.ruleset",
+    "alien/nation/jw.ruleset",
+    "alien/nation/kindergarden.ruleset",
+    "alien/nation/lunatics.ruleset",
+    "alien/nation/madmen.ruleset",
+    "alien/nation/mathclub.ruleset",
+    "alien/nation/secretsociety.ruleset",
+    "alien/nation/teamgladiators.ruleset"
   ]
 }
