@@ -41,10 +41,24 @@
     },
     {
       "name": "Amplio",
-      "version": "1.0",
+      "version": "2.6",
       "license": "GPL-3.0-or-later",
       "type": "Tileset",
       "url": "mods/amplio.json"
+    },
+    {
+      "name": "Alien",
+      "version": "2.6",
+      "license": "GPL-3.0-or-later",
+      "type": "Ruleset",
+      "url": "mods/alien.json"
+    },
+    {
+      "name": "Alio",
+      "version": "2.6",
+      "license": "GPL-3.0-or-later",
+      "type": "Tileset",
+      "url": "mods/alio.json"
     }
   ]
 }
