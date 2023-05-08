@@ -1,0 +1,39 @@
+{
+  "info": {
+    "options": "+modpack-1.0",
+    "base_url": ".",
+    "name": "Alio",
+    "type": "Tileset",
+    "version": "2.6"
+  },
+  "dependencies": [
+    {
+      "url": "alien.json",
+      "modpack": "Alien Ruleset",
+      "type": "Ruleset",
+      "version": "2.6"
+    }
+  ],
+  "files": [
+    {
+      "url": "alio/alio.tilespec",
+      "dest": "alio.tilespec"
+    },
+    "alio/burrowtubes.png",
+    "alio/burrowtubes.spec",
+    "alio/fortresses.png",
+    "alio/fortresses.spec",
+    "alio/hills.png",
+    "alio/hills.spec",
+    "alio/riversbrown.png",
+    "alio/riversbrown.spec",
+    "alio/riversgreen.png",
+    "alio/riversgreen.spec",
+    "alio/roads.png",
+    "alio/roads.spec",
+    "alio/terrain.png",
+    "alio/terrain.spec",
+    "alio/tunnels.png",
+    "alio/tunnels.spec"
+  ]
+}
