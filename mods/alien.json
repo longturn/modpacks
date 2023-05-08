@@ -1,0 +1,46 @@
+{
+  "info": {
+    "options": "+modpack-1.0",
+    "base_url": ".",
+    "name": "Alien",
+    "type": "Ruleset",
+    "version": "2.6"
+  },
+  "dependencies": [
+    {
+      "url": "alio.json",
+      "modpack": "Alio Tileset",
+      "type": "Tileset",
+      "version": "2.6"
+    }
+  ],
+  "files": [
+    {
+      "url": "alien/alien.serv",
+      "dest": "alien.serv"
+    },
+    "alien/buildings.ruleset",
+    "alien/cities.ruleset",
+    "alien/effects.ruleset",
+    "alien/game.ruleset",
+    "alien/governments.ruleset",
+    "alien/nation_effects.ruleset",
+    "alien/nations.ruleset",
+    "alien/parser.lua",
+    "alien/README.alien",
+    "alien/script.lua",
+    "alien/styles.ruleset",
+    "alien/techs.ruleset",
+    "alien/terrain.ruleset",
+    "alien/units.ruleset",
+    "alient/nation/adventurers.ruleset",
+    "alient/nation/galacticsound.ruleset",
+    "alient/nation/jw.ruleset",
+    "alient/nation/kindergarden.ruleset",
+    "alient/nation/lunatics.ruleset",
+    "alient/nation/madmen.ruleset",
+    "alient/nation/mathclub.ruleset",
+    "alient/nation/secretsociety.ruleset",
+    "alient/nation/teamgladiators.ruleset"
+  ]
+}
