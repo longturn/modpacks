@@ -9,7 +9,7 @@
   "dependencies": [
     {
       "url": "alien.json",
-      "modpack": "Alien Ruleset",
+      "modpack": "Alien",
       "type": "Ruleset",
       "version": "2.6"
     }

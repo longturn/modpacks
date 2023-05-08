@@ -9,7 +9,7 @@
   "dependencies": [
     {
       "url": "alio.json",
-      "modpack": "Alio Tileset",
+      "modpack": "Alio",
       "type": "Tileset",
       "version": "2.6"
     }
