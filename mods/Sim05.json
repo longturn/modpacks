@@ -1,0 +1,52 @@
+{
+  "info": {
+    "options": "+modpack-1.0",
+    "base_url": "https://raw.githubusercontent.com/longturn/games/39768c8975a9aac33c4f063c21d581d4b3ec177a/Sim05/",
+    "name": "Sim05",
+    "type": "Ruleset",
+    "version": "3.1"
+  },
+  "files": [
+    {
+      "url": "SIM30-fc21.serv",
+      "dest": "Sim05.serv"
+    },
+    {
+      "url": "data/SIM30-fc21/buildings.ruleset",
+      "dest": "SIM30-fc21/buildings.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/cities.ruleset",
+      "dest": "SIM30-fc21/cities.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/effects.ruleset",
+      "dest": "SIM30-fc21/effects.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/game.ruleset",
+      "dest": "SIM30-fc21/game.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/governments.ruleset",
+      "dest": "SIM30-fc21/governments.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/nations.ruleset",
+      "dest": "SIM30-fc21/nations.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/parser.lua",
+      "dest": "SIM30-fc21/parser.lua"
+    }, {
+      "url": "data/SIM30-fc21/script.lua",
+      "dest": "SIM30-fc21/script.lua"
+    }, {
+      "url": "data/SIM30-fc21/styles.ruleset",
+      "dest": "SIM30-fc21/styles.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/techs.ruleset",
+      "dest": "SIM30-fc21/techs.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/terrain.ruleset",
+      "dest": "SIM30-fc21/terrain.ruleset"
+    }, {
+      "url": "data/SIM30-fc21/units.ruleset",
+      "dest": "SIM30-fc21/units.ruleset"
+    }
+  ]
+}
