@@ -33,6 +33,13 @@
       "url": "https://raw.githubusercontent.com/ec429/fc-aviation/f616ee6bc841262ca317f22e9ad38a53144152ae/aviation.json"
     },
     {
+      "name": "Sim05",
+      "version": "3.1",
+      "license": "GPL-2.0-or-later",
+      "type": "Ruleset",
+      "url": "mods/Sim05.json"
+    },
+    {
       "name": "Sim30Test",
       "version": "3.1",
       "license": "GPL-2.0-or-later",
