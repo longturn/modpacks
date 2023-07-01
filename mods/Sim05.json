@@ -8,45 +8,45 @@
   },
   "files": [
     {
-      "url": "SIM30-fc21.serv",
+      "url": "Sim05.serv",
       "dest": "Sim05.serv"
     },
     {
-      "url": "data/SIM30-fc21/buildings.ruleset",
-      "dest": "SIM30-fc21/buildings.ruleset"
+      "url": "data/Sim05/buildings.ruleset",
+      "dest": "Sim05/buildings.ruleset"
     }, {
-      "url": "data/SIM30-fc21/cities.ruleset",
-      "dest": "SIM30-fc21/cities.ruleset"
+      "url": "data/Sim05/cities.ruleset",
+      "dest": "Sim05/cities.ruleset"
     }, {
-      "url": "data/SIM30-fc21/effects.ruleset",
-      "dest": "SIM30-fc21/effects.ruleset"
+      "url": "data/Sim05/effects.ruleset",
+      "dest": "Sim05/effects.ruleset"
     }, {
-      "url": "data/SIM30-fc21/game.ruleset",
-      "dest": "SIM30-fc21/game.ruleset"
+      "url": "data/Sim05/game.ruleset",
+      "dest": "Sim05/game.ruleset"
     }, {
-      "url": "data/SIM30-fc21/governments.ruleset",
-      "dest": "SIM30-fc21/governments.ruleset"
+      "url": "data/Sim05/governments.ruleset",
+      "dest": "Sim05/governments.ruleset"
     }, {
-      "url": "data/SIM30-fc21/nations.ruleset",
-      "dest": "SIM30-fc21/nations.ruleset"
+      "url": "data/Sim05/nations.ruleset",
+      "dest": "Sim05/nations.ruleset"
     }, {
-      "url": "data/SIM30-fc21/parser.lua",
-      "dest": "SIM30-fc21/parser.lua"
+      "url": "data/Sim05/parser.lua",
+      "dest": "Sim05/parser.lua"
     }, {
-      "url": "data/SIM30-fc21/script.lua",
-      "dest": "SIM30-fc21/script.lua"
+      "url": "data/Sim05/script.lua",
+      "dest": "Sim05/script.lua"
     }, {
-      "url": "data/SIM30-fc21/styles.ruleset",
-      "dest": "SIM30-fc21/styles.ruleset"
+      "url": "data/Sim05/styles.ruleset",
+      "dest": "Sim05/styles.ruleset"
     }, {
-      "url": "data/SIM30-fc21/techs.ruleset",
-      "dest": "SIM30-fc21/techs.ruleset"
+      "url": "data/Sim05/techs.ruleset",
+      "dest": "Sim05/techs.ruleset"
     }, {
-      "url": "data/SIM30-fc21/terrain.ruleset",
-      "dest": "SIM30-fc21/terrain.ruleset"
+      "url": "data/Sim05/terrain.ruleset",
+      "dest": "Sim05/terrain.ruleset"
     }, {
-      "url": "data/SIM30-fc21/units.ruleset",
-      "dest": "SIM30-fc21/units.ruleset"
+      "url": "data/Sim05/units.ruleset",
+      "dest": "Sim05/units.ruleset"
     }
   ]
 }
