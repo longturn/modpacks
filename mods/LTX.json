@@ -1,0 +1,71 @@
+{
+  "info": {
+    "options": "+modpack-1.0",
+    "base_url": "https://raw.githubusercontent.com/longturn/LTT-LTX/831f4dff33b9a22527faa485c18e085c55d4260e/LTX",
+    "name": "Longturn Extended (LTX) Ruleset",
+    "type": "Ruleset",
+    "version": "20240216"
+  },
+  "files": [
+    {
+      "url": "LTX_local.serv",
+      "dest": "LTX.serv"
+    },
+    {
+      "url": "data/LTX/game.ruleset",
+      "dest": "LTX/game.ruleset"
+    },
+    {
+      "url": "data/LTX/buildings.ruleset",
+      "dest": "LTX/buildings.ruleset"
+    },
+    {
+      "url": "data/LTX/nations.ruleset",
+      "dest": "LTX/nations.ruleset"
+    },
+    {
+      "url": "data/LTX/units.ruleset",
+      "dest": "LTX/units.ruleset"
+    },
+    {
+      "url": "data/LTX/terrain.ruleset",
+      "dest": "LTX/terrain.ruleset"
+    },
+    {
+      "url": "data/LTX/techs.ruleset",
+      "dest": "LTX/techs.ruleset"
+    },
+    {
+      "url": "data/LTX/README.LTT",
+      "dest": "LTX/README.LTT"
+    },
+    {
+      "url": "data/LTX/styles.ruleset",
+      "dest": "LTX/styles.ruleset"
+    },
+    {
+      "url": "data/LTX/effects.ruleset",
+      "dest": "LTX/effects.ruleset"
+    },
+    {
+      "url": "data/LTX/governments.ruleset",
+      "dest": "LTX/governments.ruleset"
+    },
+    {
+      "url": "data/LTX/README.LTX",
+      "dest": "LTX/README.LTX"
+    },
+    {
+      "url": "data/LTX/cities.ruleset",
+      "dest": "LTX/cities.ruleset"
+    },
+    {
+      "url": "data/LTX/parser.lua",
+      "dest": "LTX/parser.lua"
+    },
+    {
+      "url": "data/LTX/script.lua",
+      "dest": "LTX/script.lua"
+    }
+  ]
+}

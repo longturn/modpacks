@@ -1,0 +1,67 @@
+{
+  "info": {
+    "options": "+modpack-1.0",
+    "base_url": "https://raw.githubusercontent.com/longturn/LTT-LTX/831f4dff33b9a22527faa485c18e085c55d4260e/LTT",
+    "name": "Longturn Traditional (LTT) Ruleset",
+    "type": "Ruleset",
+    "version": "20240216"
+  },
+  "files": [
+    {
+      "url": "LTT_local.serv",
+      "dest": "LTT.serv"
+    },
+    {
+      "url": "data/LTT/parser.lua",
+      "dest": "LTT/parser.lua"
+    },
+    {
+      "url": "data/LTT/cities.ruleset",
+      "dest": "LTT/cities.ruleset"
+    },
+    {
+      "url": "data/LTT/governments.ruleset",
+      "dest": "LTT/governments.ruleset"
+    },
+    {
+      "url": "data/LTT/script.lua",
+      "dest": "LTT/script.lua"
+    },
+    {
+      "url": "data/LTT/effects.ruleset",
+      "dest": "LTT/effects.ruleset"
+    },
+    {
+      "url": "data/LTT/game.ruleset",
+      "dest": "LTT/game.ruleset"
+    },
+    {
+      "url": "data/LTT/units.ruleset",
+      "dest": "LTT/units.ruleset"
+    },
+    {
+      "url": "data/LTT/techs.ruleset",
+      "dest": "LTT/techs.ruleset"
+    },
+    {
+      "url": "data/LTT/nations.ruleset",
+      "dest": "LTT/nations.ruleset"
+    },
+    {
+      "url": "data/LTT/terrain.ruleset",
+      "dest": "LTT/terrain.ruleset"
+    },
+    {
+      "url": "data/LTT/styles.ruleset",
+      "dest": "LTT/styles.ruleset"
+    },
+    {
+      "url": "data/LTT/buildings.ruleset",
+      "dest": "LTT/buildings.ruleset"
+    },
+    {
+      "url": "data/LTT/README.LTT",
+      "dest": "LTT/README.LTT"
+    }
+  ]
+}
