@@ -73,6 +73,20 @@
       "license": "GPL-3.0-or-later",
       "type": "Tileset",
       "url": "mods/alio.json"
+    },
+    {
+      "name": "Longturn Traditional (LTT) Ruleset",
+      "version": "20240216",
+      "license": "GPL-3.0-or-later",
+      "type": "Ruleset",
+      "url": "mods/LTT.json"
+    },
+    {
+      "name": "Longturn Extended (LTX) Ruleset",
+      "version": "20240216",
+      "license": "GPL-3.0-or-later",
+      "type": "Ruleset",
+      "url": "mods/LTX.json"
     }
   ]
 }
