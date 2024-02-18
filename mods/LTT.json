@@ -1,10 +1,10 @@
 {
   "info": {
     "options": "+modpack-1.0",
-    "base_url": "https://raw.githubusercontent.com/longturn/LTT-LTX/831f4dff33b9a22527faa485c18e085c55d4260e/LTT",
+    "base_url": "https://raw.githubusercontent.com/longturn/LTT-LTX/8b01f43db9c187f7fabea75a1d3df9cc665a5216/LTT",
     "name": "Longturn Traditional (LTT) Ruleset",
     "type": "Ruleset",
-    "version": "20240216"
+    "version": "20240218"
   },
   "files": [
     {
