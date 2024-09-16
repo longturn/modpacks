@@ -1,7 +1,7 @@
 {
   "info": {
     "options": "+modpack-1.0",
-    "base_url": "https://raw.githubusercontent.com/longturn/Sim/tree/6eb4ce61f74a57681c46d9d4d93fb5bba62db82f/",
+    "base_url": "https://raw.githubusercontent.com/longturn/Sim/6eb4ce61f74a57681c46d9d4d93fb5bba62db82f/",
     "name": "Sim06",
     "type": "Ruleset",
     "version": "3.1"
