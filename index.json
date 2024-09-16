@@ -54,13 +54,6 @@
       "url": "mods/SG2.json"
     },
     {
-      "name": "Sim30Test",
-      "version": "3.1",
-      "license": "GPL-2.0-or-later",
-      "type": "Ruleset",
-      "url": "mods/Sim30Test.json"
-    },
-    {
       "name": "Amplio",
       "version": "2.6",
       "license": "GPL-3.0-or-later",
