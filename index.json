@@ -83,7 +83,7 @@
     },
     {
       "name": "Longturn Extended (LTX) Ruleset",
-      "version": "20240218",
+      "version": "20240718",
       "license": "GPL-3.0-or-later",
       "type": "Ruleset",
       "url": "mods/LTX.json"
