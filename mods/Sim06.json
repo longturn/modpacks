@@ -1,0 +1,52 @@
+{
+  "info": {
+    "options": "+modpack-1.0",
+    "base_url": "https://raw.githubusercontent.com/longturn/Sim/tree/6eb4ce61f74a57681c46d9d4d93fb5bba62db82f/",
+    "name": "Sim06",
+    "type": "Ruleset",
+    "version": "3.1"
+  },
+  "files": [
+    {
+      "url": "Sim06.serv",
+      "dest": "Sim06.serv"
+    },
+    {
+      "url": "Sim06/buildings.ruleset",
+      "dest": "Sim06/buildings.ruleset"
+    }, {
+      "url": "Sim06/cities.ruleset",
+      "dest": "Sim06/cities.ruleset"
+    }, {
+      "url": "Sim06/effects.ruleset",
+      "dest": "Sim06/effects.ruleset"
+    }, {
+      "url": "Sim06/game.ruleset",
+      "dest": "Sim06/game.ruleset"
+    }, {
+      "url": "Sim06/governments.ruleset",
+      "dest": "Sim06/governments.ruleset"
+    }, {
+      "url": "Sim06/nations.ruleset",
+      "dest": "Sim06/nations.ruleset"
+    }, {
+      "url": "Sim06/parser.lua",
+      "dest": "Sim06/parser.lua"
+    }, {
+      "url": "Sim06/script.lua",
+      "dest": "Sim06/script.lua"
+    }, {
+      "url": "Sim06/styles.ruleset",
+      "dest": "Sim06/styles.ruleset"
+    }, {
+      "url": "Sim06/techs.ruleset",
+      "dest": "Sim06/techs.ruleset"
+    }, {
+      "url": "Sim06/terrain.ruleset",
+      "dest": "Sim06/terrain.ruleset"
+    }, {
+      "url": "Sim06/units.ruleset",
+      "dest": "Sim06/units.ruleset"
+    }
+  ]
+}
