@@ -399,3 +399,8 @@ styles =
       "ts.wine",       "Single1"
       "ts.oil",        "Single1"
     }
+
+[option_cimpletoon]
+name = "cimpletoon"
+description = _("Use 3D Cimpletoon units")
+default = FALSE
