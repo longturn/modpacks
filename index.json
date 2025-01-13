@@ -19,6 +19,13 @@
       "url": "https://raw.githubusercontent.com/lmoureaux/RoundSquare/main/RoundSquare.json"
     },
     {
+      "name": "Sextant",
+      "version": "3.0.0",
+      "license": "GPL-2.0-or-later",
+      "type": "Tileset",
+      "url": "https://raw.githubusercontent.com/jwrober/sextant/master/Sextant-Modpack.json"
+    },
+    {
       "name": "Aviation",
       "version": "3.1-0.3",
       "license": "GPL-2.0-only",
