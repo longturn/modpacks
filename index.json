@@ -87,6 +87,13 @@
       "license": "GPL-3.0-or-later",
       "type": "Ruleset",
       "url": "mods/LTX.json"
+    },
+    {
+      "name": "Scenario Game 4",
+      "version": "1.0",
+      "license": "GPL-3.0-or-later",
+      "type": "Modpack",
+      "url": "mods/SG4.json"
     }
   ]
 }
