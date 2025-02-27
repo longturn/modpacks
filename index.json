@@ -90,17 +90,24 @@
     },
     {
       "name": "Longturn Traditional (LTT) Ruleset",
-      "version": "20240218",
+      "version": "20250227",
       "license": "GPL-3.0-or-later",
       "type": "Ruleset",
       "url": "mods/LTT.json"
     },
     {
       "name": "Longturn Extended (LTX) Ruleset",
-      "version": "20240718",
+      "version": "20250227",
       "license": "GPL-3.0-or-later",
       "type": "Ruleset",
       "url": "mods/LTX.json"
+    },
+    {
+      "name": "Scenario Game 4",
+      "version": "1.0",
+      "license": "GPL-3.0-or-later",
+      "type": "Modpack",
+      "url": "mods/SG4.json"
     }
   ]
 }
