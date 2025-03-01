@@ -1,10 +1,10 @@
 {
   "info": {
     "options": "+modpack-1.0",
-    "base_url": "https://raw.githubusercontent.com/longturn/LTT-LTX/1071f82a1874ad9ea1ce21c84ef9d62d20b9fd03/LTX/",
+    "base_url": "https://raw.githubusercontent.com/longturn/LTT-LTX/090978bc820c4e5efe629949dfa01a8b076eb6e1/LTX/",
     "name": "Scenario Game 4",
     "type": "Modpack",
-    "version": "1.0"
+    "version": "1.1"
   },
   "files": [
     {
