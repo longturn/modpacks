@@ -114,7 +114,7 @@
       "version": "2025-05-09-8a67d16",
       "license": "GPL-3.0-or-later",
       "type": "Modpack",
-      "url": "mods/Chaos-2025-05-09-8a67d16.json"
+      "url": "https://raw.githubusercontent.com/longturn/rules-of-chaos/refs/heads/modpack-2025-05-09/modpack.json"
     }
   ]
 }
